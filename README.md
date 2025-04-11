@@ -1,3 +1,6 @@
+![Screenshot 2025-04-11 at 16 05 30](https://github.com/user-attachments/assets/c01d7e01-46b2-4d0c-a911-b83809c5c390)
+
+
 O git é uma ferramenta utilizada para versionar có﻿digos (reps)
 
 O github, é uma plataforma para gerenciar códigos e ambientes de desenvolvimento colaborativo, através do uso do git
